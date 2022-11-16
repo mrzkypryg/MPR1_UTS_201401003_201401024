@@ -129,7 +129,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/seeCourse"
-        android:layout_marginTop="350dp"
+        android:layout_marginTop="360dp"
         android:clipToPadding="true"
         android:paddingBottom="60dp"
         app:layout_constraintBottom_toBottomOf="parent"
