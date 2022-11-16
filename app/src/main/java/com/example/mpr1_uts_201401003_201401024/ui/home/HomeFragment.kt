@@ -68,12 +68,12 @@ class HomeFragment : Fragment() {
 
     fun courseData(){
         courses = ArrayList()
-        courses.add(Course("Algebra", "xxxxxxx",  R.drawable.ic_baseline_calculate_24,"#d3d3d3" ))
-        courses.add(Course("Calculus", "xxxxxxx",  R.drawable.ic_baseline_calculate_24,"#ff7f7f"))
-        courses.add(Course("Numerical", "xxxxxxx",  R.drawable.ic_baseline_calculate_24,"#90ee90"))
-        courses.add(Course("Vector", "xxxxxxx",  R.drawable.ic_baseline_calculate_24,"#add8e6"))
-        courses.add(Course("Algebra 2", "xxxxxxx",  R.drawable.ic_baseline_calculate_24,"#ffd580"))
-        courses.add(Course("Algebra 3", "xxxxxxx",  R.drawable.ic_baseline_calculate_24,"#000000"))
+        courses.add(Course("Algebra", "Learn something about Algebra",  R.drawable.ic_baseline_calculate_24,"#d3d3d3" ))
+        courses.add(Course("Calculus", "Learn something about Calculus",  R.drawable.ic_baseline_calculate2_24,"#ff7f7f"))
+        courses.add(Course("Numerical", "Learn something about Numerical",  R.drawable.ic_baseline_library_calculate3_24,"#90ee90"))
+        courses.add(Course("Vector", "Learn something about Vector",  R.drawable.ic_baseline_leak_calculate4_24,"#add8e6"))
+        courses.add(Course("Algorithm", "Learn something about Algorithm",  R.drawable.ic_baseline_calculate2_24,"#ffd580"))
+        courses.add(Course("Function", "Function",  R.drawable.ic_baseline_calculate_24,"#000000"))
     }
 
 
